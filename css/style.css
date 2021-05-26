@@ -733,14 +733,14 @@ a:focus {
 
 .portfolio .portfolio-item {
     position: relative;
-    height: 250px;
+    height: 300px;
     overflow: hidden;
 }
 
 .portfolio .portfolio-item figure {
     background: #ffffff;
     overflow: hidden;
-    height: 220px;
+    height: 270px;
     position: relative;
     border-radius: 0;
     margin: 0; 
